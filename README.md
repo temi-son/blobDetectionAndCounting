@@ -9,4 +9,4 @@ This task shows how applicable Computer Vision is in our everyday life as it was
 This figure shows the Main Frame is where the visualisation of detection, recognition and counting is done:
 ![image](https://github.com/temi-son/blobDetectionAndCounting/assets/102083340/2c205110-93dc-4f94-b194-ea788596e788)
 
-The test video is provided as well. 
+The test video is provided as well (VideoCW2). 
